@@ -1,6 +1,7 @@
 # Welcome to Prng Jingchao's GitHub Pages
 
 ## [模式识别原理与应用课程笔记系列](https://github.com/PengJingchao/pengjingchao.github.io/edit/master/模式识别原理与应用课程笔记系列.md 	)
+## [模式识别原理与应用课程笔记系列](https://github.com/PengJingchao/pengjingchao.github.io/master/模式识别原理与应用课程笔记系列.md 	)
 
 
 You can use the [editor on GitHub](https://github.com/PengJingchao/pengjingchao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
